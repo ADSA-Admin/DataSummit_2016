@@ -16,6 +16,10 @@ the following software for python.
 
   You can install all of these using
 
+```
+    pip install -U -r requirements.txt
+```
+
 * Windows: Install Anaconda for python [here]("https://www.continuum.io/downloads").
   The full package
   list installed by Anaconda is [here]("http://docs.continuum.io/anaconda/pkg-docs").
