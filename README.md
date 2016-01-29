@@ -3,7 +3,7 @@
 ## Installing Git
 
 * Windows: Follow the installation guide
-  [here]("https://confluence.atlassian.com/bitbucket/set-up-git-744723531.html").
+  [here](https://confluence.atlassian.com/bitbucket/set-up-git-744723531.html).
 
 * Linux and OS X: `git` should be installed by default.
 
