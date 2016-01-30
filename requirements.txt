@@ -1,6 +1,6 @@
-numpy>=1.9
-scipy>=0.16
-scikit-learn>=0.17
-nltk>=3.1
+numpy>=1.6.1
+scipy>=0.9
+scikit-learn>=0.15
 pandas>=0.17
-ipython>=4.0
+ipython>=3.0
+matplotlib>=1.0
