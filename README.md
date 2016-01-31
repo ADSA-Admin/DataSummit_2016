@@ -31,14 +31,14 @@ pip install -U -r requirements.txt
 
   If you run into difficulties installing scipy because of libblas or lapack,
   please follow the stackoverflow post
-  [here]("http://stackoverflow.com/questions/7496547/does-python-scipy-need-blas").
+  [here](http://stackoverflow.com/questions/7496547/does-python-scipy-need-blas).
 
   Alternatively, you may use anaconda to install the python scientific
   stack on your machine. (See below.)
 
-* Windows: Install Anaconda for python [here]("https://www.continuum.io/downloads").
+* Windows: Install Anaconda for python [here](https://www.continuum.io/downloads).
   The full package
-  list installed by Anaconda is [here]("http://docs.continuum.io/anaconda/pkg-docs").
+  list installed by Anaconda is [here](http://docs.continuum.io/anaconda/pkg-docs).
 
 Run the following commands to ensure that the packages were installed
 correctly:
