@@ -1,5 +1,7 @@
 # ADSA Data Summit 2016
 
+![](images/header.jpg)
+
 ## Installing Git
 
 * Windows: Follow the installation guide
@@ -19,7 +21,8 @@ the following software for python.
     * scikit-learn>=0.15
     * pandas>=0.17
     * ipython>=3.0
-    * matplotlib >= 1.5
+    * matplotlib>=1.5
+    * jupyter>=1.0.0
 
   You can install all of these using
 ```
