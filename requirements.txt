@@ -4,3 +4,4 @@ scikit-learn>=0.15
 pandas>=0.17
 ipython>=3.0
 matplotlib>=1.0
+jupyter>=1.0.0
