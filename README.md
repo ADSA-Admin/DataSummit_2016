@@ -1,5 +1,3 @@
-# ADSA Data Summit 2016
-
 ![](images/header.jpg)
 
 ## Installing Git
